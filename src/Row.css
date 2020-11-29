@@ -4,7 +4,7 @@
 
 .row__poster {
     object-fit: contain;
-    width: 100%;
+    width: 98%;
     max-height: 100px;
     display: flex;
     margin-right: 10px;
